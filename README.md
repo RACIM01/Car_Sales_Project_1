@@ -5,8 +5,8 @@ project part :
 1. analysing and cleanig data using pandas.
 2. conseption and creation data warehouse using SQL Server 2022.
 3. Extraction, Transform, Load data using pandas and sqlalchemy (create_engine, URL), pypyodbc packages.
-4.1 Creating Power BI Dashboad using the DW.
-4.2 Creating ML model to predict car prices.
+4. Creating Power BI Dashboad using the DW.
+5. Creating ML model to predict car prices.(to complet)
 
 Data warehouse Schema :
 ![DW CARS SALES](https://github.com/RACIM01/Car_Sales_Project_1/assets/113592369/551f6837-2e1d-42f6-8e9a-50fb51da12e2)
