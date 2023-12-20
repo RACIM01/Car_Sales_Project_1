@@ -1,12 +1,12 @@
-This project analyse car sales annocements which is scrapped from Craigslist. \n
-The data source was from kaggle with over then 400k row csv file with a size of 1.45GB.
+This project involves the analysis of car sales announcements obtained through web scraping from Craigslist. The data source is a Kaggle dataset consisting of over 400k rows in a CSV file with a size of 1.45GB.
 
-project part :
-1. analysing and cleanig data using pandas.
-2. conseption and creation data warehouse using SQL Server 2022.
-3. Extraction, Transform, Load data using pandas and sqlalchemy (create_engine, URL), pypyodbc packages.
-4. Creating Power BI Dashboad using the DW.
-5. Creating ML model to predict car prices.(to complet)
+Key project components include:
+
+1. Analyzing and cleaning data using pandas.
+2. Designing and creating a data warehouse using SQL Server 2022.
+3. Implementing the Extraction, Transformation, and Load (ETL) process using pandas and sqlalchemy (create_engine, URL), pypyodbc packages.
+4. Developing a Power BI Dashboard using the data warehouse.
+5. Ongoing work involves creating a machine learning model to predict car prices (to be completed).
 
 Data warehouse Schema :
 ![DW CARS SALES](https://github.com/RACIM01/Car_Sales_Project_1/assets/113592369/551f6837-2e1d-42f6-8e9a-50fb51da12e2)
