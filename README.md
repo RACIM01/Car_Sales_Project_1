@@ -4,7 +4,7 @@ The data source was from kaggle with over then 400k row csv file with a size of 
 project part :
 1. analysing and cleanig data using pandas.
 2. conseption and creation data warehouse using SQL Server 2022.
-3. Extraction, Transform, Load data using pandas and sqlalchemy (create_engine, URL), pypyodbc packages
+3. Extraction, Transform, Load data using pandas and sqlalchemy (create_engine, URL), pypyodbc packages.
 4.1 Creating Power BI Dashboad using the DW.
 4.2 Creating ML model to predict car prices.
 
