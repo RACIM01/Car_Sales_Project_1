@@ -62,6 +62,4 @@ CREATE TABLE Fact_table (
 );
 
 select @@SERVERNAME
-
-
 EXEC sp_spaceused 'Fact_table';
